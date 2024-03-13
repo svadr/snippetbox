@@ -4,11 +4,15 @@ brew install mysql
 
 ## Scaffolding the database
 
+```
  sudo mysql
+```
 
 -- if that doesnt work use
 
+```
  mysql -u root -p
+```
 
  -- Create a new UTF-8 `snippetbox` database.
 
